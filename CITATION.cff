@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: solvent
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Massimo
+    family-names: Bartoletti
+    email: bart@unica.it
+    affiliation: Università degli Studi di Cagliari
+  - given-names: Angelo
+    family-names: Ferrando
+    email: angelo.ferrando@unimore.it
+    affiliation: Università di Modena e Reggio Emilia
+  - given-names: Enrico
+    family-names: Lipparini
+    email: enrico.lipparini@unica.it
+    affiliation: Università degli Studi di Cagliari
+  - given-names: Vadim
+    family-names: Malvone
+    affiliation: Télécom Paris
+    email: vadim.malvone@telecom-paris.fr
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.5512155
+    description: Zenodo
+repository-code: 'https://github.com/AngeloFerrando/Solvent'
+license: MIT
